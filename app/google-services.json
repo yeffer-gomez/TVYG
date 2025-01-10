@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399279624583",
+    "project_id": "olimpustv-a3627",
+    "storage_bucket": "olimpustv-a3627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399279624583:android:d0587a6d6b1d3f176ec322",
+        "android_client_info": {
+          "package_name": "com.example.tvyg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhzOMQJfefsV1K9Uy9EvrKvxF8ShxRNzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
